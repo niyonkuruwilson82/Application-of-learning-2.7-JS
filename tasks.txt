@@ -1,0 +1,7 @@
+Application of learning 2.7.
+
+Build a javascript project to create an age calculator. From the final version of the project,
+create a container with the title age calculator with an input of a date. If the user clicks on
+the date input, he/she can choose the date of their birthday. For example, if the user
+chooses a date in 2002 and clicks on Calculate Age, he/she can see the age is calculated
+based on this date and saying your age is 21 years old.
